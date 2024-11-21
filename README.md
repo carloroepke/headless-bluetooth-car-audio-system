@@ -1,5 +1,7 @@
+---    Work stopped 2018, newer projects are (and will stay) private ;)    ---
+
 # headless-bluetooth-car-audio-system
-I'm using a raspberry pi to create a truly headless bluetooth car audio system with some cool features for my old VW Polo Variant's car Stereo (VW gamma IV). This repository conatins all code for the media control, OBD readout and bluetooth functionality.  THE WHOLE PROJECT IS WIP SINCE 2018!
+I'm using a raspberry pi to create a truly headless bluetooth car audio system with some cool features for my old VW Polo Variant's car Stereo (VW gamma IV). This repository conatins all code for the media control, OBD readout and bluetooth functionality.
 
 ## 1 - necessary Hardware
 * car radio with AUX input an control signal output (ideally an unlocked CD changer functionality)
